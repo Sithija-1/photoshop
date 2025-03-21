@@ -1,2 +1,3 @@
 # new photoshop work ....
-<img src="output.jpg" width="400" style = "text-item = "center"">
+<img src="output.jpg" width="400" style="display: block; margin: 0 auto;">
+
