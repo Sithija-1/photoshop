@@ -1,3 +1,6 @@
 # new photoshop work ....
-<img src="output.jpg" width="400" style="display: block; margin: 0 auto;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="output.jpg" width="400">
+</div>
+
 
