@@ -1,2 +1,2 @@
 # new photoshop work ....
-<img src="output.png" width="400">
+<img src="output.jpg" width="400">
